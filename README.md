@@ -9,7 +9,7 @@ Copy the `engine.d.ts` file into your creation's scripts folder and add the foll
 ```json
 {
   "compilerOptions": {
-    "lib": ["es2022"],
+    "lib": ["ES2023"],
     "types": ["./engine.d.ts"]
   }
 }
